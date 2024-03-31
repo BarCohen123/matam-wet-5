@@ -1,0 +1,9 @@
+# ignore these files
+*.zip
+*.o
+*.result
+*.exe
+*.enc
+__pycache__
+test
+unitest
